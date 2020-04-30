@@ -48,7 +48,6 @@ class Entity(BaseEntity):
         description=None,
         name=None,
         otherIdentifiers=None,
-        version=None,
         extensions=None,
     ):
         BaseEntity.__init__(self, context=context, profile=profile)
