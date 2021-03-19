@@ -31,8 +31,8 @@ from caliper.constants import CALIPER_VERSION
 from caliper.sensor import Sensor, SimpleSensor
 
 __title__ = "IMSGlobal_Caliper"
-__version__ = "1.2.0.4"
-__build__ = 0x01020004
+__version__ = "1.2.0.5"
+__build__ = 0x01020005
 __author__ = "IMS Global Learning Consortium, Inc."
 __license__ = "LGPLv3"
 __all__ = ["Sensor", "SimpleSensor", "HttpOptions", CALIPER_VERSION]

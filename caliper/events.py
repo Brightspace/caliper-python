@@ -101,7 +101,7 @@ class Event(BaseEvent):
 
     @property
     def membership(self):
-        return self._get_prop
+        return self._get_prop("membership")
 
     @property
     def referrer(self):

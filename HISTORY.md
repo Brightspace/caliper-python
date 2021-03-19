@@ -4,6 +4,8 @@
 
 - Revise Entities and Events to align with 1.2 final spec draft.
 
+  *1.2.0.5*. Bug fix for [Issue #222](https://github.com/IMSGlobal/caliper-python/issues/222).
+
   *1.2.0.4*. Add test support for Python 3.9.
 
   *1.2.0.3*. Bug fixes with [PR #220](https://github.com/IMSGlobal/caliper-python/pull/220).
